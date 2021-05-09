@@ -1,1 +1,1 @@
-
+This is a small project i have done with in the JetBrains academy Java developer study plan. I have been using File management, some basic searching algorithms, Collections and the Strategy design Pattern. 
